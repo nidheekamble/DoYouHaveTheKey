@@ -3,7 +3,7 @@
 
 This application is consistent with my perspective of regarding code as a versatile utility.<br>
 It was created purely for self-help/self-testing purposes: to gauge my knowledge of keywords in Java in a specified time limit. I welcome all contributors to use it to their benefit(s) with the required modifications and inform me of the same so that I may learn too. <hr>
-The current version of the project does not work as I inteded it to, and I am/shall be working on the rectification and improvement of the same. I stand open to all suggestions for its betterment. <br>
+The current version of the project does not work as I inteded it to, and I am/shall be working on the rectification and improvement of the same. I stand open to all suggestions for its betterment. <br><br>
 ![Image here](https://github.com/nidheekamble/DoYouHaveTheKey/blob/master/src/giveUpSS.PNG)
 
 
