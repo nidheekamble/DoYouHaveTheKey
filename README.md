@@ -1,5 +1,5 @@
 ## DoYouHaveTheKey? 
-### A Java trivia application in Swing
+### Java Trivia: An application in Swing
 
 This application is consistent with my perspective of regarding code as a versatile utility.<br>
 It was created purely for self-help/self-testing purposes: to gauge my knowledge of keywords in Java in a specified time limit. I welcome all contributors to use it to their benefit(s) with the required modifications and inform me of the same so that I may learn too. <hr>
